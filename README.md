@@ -5,12 +5,6 @@
   <title>CSS Christmas Present</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-
-
-
-
-
-
 <style>
     body {
   background: #333;
@@ -115,16 +109,13 @@
       <span></span>
     </div>
     <div class="promo">
-     
-      Assalamualaikum</p>
-      
+      Assalamualaikum
       <h2>Jumma mubarak ho </h2>
     </div>
     <div class="box">
       <span></span>
       <span></span>
     </div>
-
     <div class="jhwdwed">
       <img src="https://i.imghippo.com/files/zc3321fJI.jpeg" alt="" width="32%" border="0">
     </div>
